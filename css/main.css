@@ -9,8 +9,8 @@ body {
 
 /* Call-to-action container */
 .cta {
-  background-color: #464e5f;
-  color: white;
+  background-color: #ef0000;
+  color: rgb(0, 0, 0);
 }
 
 /* Call to Action "button" */
@@ -19,14 +19,14 @@ body {
   text-decoration: none;
   text-align: center;
 
-  color: white;
-  background-color: #cb850b;
+  color: rgb(237, 11, 11);
+  background-color: #000000;
 }
 
 /* Hover state */
 .cta a:hover {
-  background-color: #f9cf86;
-  color: #333;
+  background-color: #f60000;
+  color: rgb(6, 1, 0);
 }
 
 /* Click state */
